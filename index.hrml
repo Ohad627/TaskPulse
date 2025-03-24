@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TaskPulse – שלוט בזמן שלך, תגיע ליעדים שלך!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding-bottom: 30px;
+        }
+        h1 {
+            color: #0078D7;
+        }
+        p {
+            font-size: 18px;
+        }
+        .download-btn {
+            display: inline-block;
+            background-color: #0078D7;
+            color: white;
+            text-decoration: none;
+            padding: 15px 30px;
+            border-radius: 5px;
+            font-size: 20px;
+            margin-top: 20px;
+            transition: 0.3s;
+        }
+        .download-btn:hover {
+            background-color: #005BB5;
+        }
+        .instructions {
+            margin-top: 40px;
+            text-align: right;
+            padding: 20px;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .instructions h2 {
+            color: #0078D7;
+        }
+        .step {
+            margin-bottom: 15px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>TaskPulse – שלוט בזמן שלך, תגיע ליעדים שלך!</h1>
+        <p>מרגיש שהיום עובר בלי שליטה? עם <strong>TaskPulse</strong>, תוכל לארגן את הזמן שלך בצורה חכמה, לסמן מטרות ולהשיג יותר.</p>
+        <p>✔ ניהול סדר יום מתקדם</p>
+        <p>✔ סימון משימות והתקדמות</p>
+        <p>✔ ממשק פשוט ויעיל</p>
+        <a class="download-btn" href="https://app--daily-flow-copy-a99d32e0.base44.app" target="_blank">⬇ להורדה עכשיו</a>
+    </div>
+
+    <div class="container instructions">
+        <h2>📲 איך להוסיף למסך הבית?</h2>
+        
+        <h3>באנדרואיד (Chrome)</h3>
+        <p class="step">1. היכנס לאפליקציה בקישור למעלה.</p>
+        <p class="step">2. לחץ על התפריט (שלוש נקודות למעלה בצד ימין).</p>
+        <p class="step">3. בחר "הוסף למסך הבית".</p>
+        <p class="step">4. אשר את הפעולה – והאפליקציה תהיה שם כמו כל אפליקציה רגילה!</p>
+
+        <h3>באייפון (Safari)</h3>
+        <p class="step">1. היכנס לאפליקציה דרך Safari.</p>
+        <p class="step">2. לחץ על כפתור השיתוף (האייקון עם הריבוע והחץ למעלה).</p>
+        <p class="step">3. גלול למטה ובחר "הוסף למסך הבית".</p>
+        <p class="step">4. אשר – וזהו, TaskPulse תופיע במסך הבית שלך!</p>
+    </div>
+</body>
+</html>
